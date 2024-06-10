@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mini-container {
+  /*background-color: #ffffff;
+  height: 80vh;
+  width: 80vw;
+  padding-top: 10vh;
+  margin-left: 10vw;
+  border-radius: 15px;
+  display: flex;*/
+  background-color: #ffffff;
+  background-size: cover;
+  height: 80vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 35vh;
+  width: 35vw;
+}
+.gandi {
+  display: flex;
+  flex-direction: row;
+}
+.head {
+  font-family: roboto;
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+  padding-top: 50px;
+  text-align: center;
+}
+.spaaaa {
+  color: #ffd569;
+  font-size: 40px;
+}
